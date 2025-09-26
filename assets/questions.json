@@ -1,0 +1,52 @@
+[
+  {
+    "pregunta": "¿Cuál es el río más largo del mundo?",
+    "opciones": ["Amazonas", "Nilo", "Yangtsé", "Misisipi"],
+    "respuesta": "Amazonas"
+  },
+  {
+    "pregunta": "¿Quién pintó 'La última cena'?",
+    "opciones": ["Leonardo da Vinci", "Miguel Ángel", "Raphael", "Caravaggio"],
+    "respuesta": "Leonardo da Vinci"
+  },
+  {
+    "pregunta": "¿En qué año llegó el hombre a la Luna?",
+    "opciones": ["1965", "1969", "1972", "1959"],
+    "respuesta": "1969"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Australia?",
+    "opciones": ["Sídney", "Melbourne", "Canberra", "Perth"],
+    "respuesta": "Canberra"
+  },
+  {
+    "pregunta": "¿Qué país tiene forma de bota?",
+    "opciones": ["España", "Grecia", "Italia", "Portugal"],
+    "respuesta": "Italia"
+  },
+  {
+    "pregunta": "¿Quién escribió 'Don Quijote de la Mancha'?",
+    "opciones": ["Lope de Vega", "Miguel de Cervantes", "Francisco de Quevedo", "Calderón de la Barca"],
+    "respuesta": "Miguel de Cervantes"
+  },
+  {
+    "pregunta": "¿Cuál es el océano más grande del planeta?",
+    "opciones": ["Atlántico", "Índico", "Pacífico", "Ártico"],
+    "respuesta": "Pacífico"
+  },
+  {
+    "pregunta": "¿Qué científico propuso la teoría de la relatividad?",
+    "opciones": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Nikola Tesla"],
+    "respuesta": "Albert Einstein"
+  },
+  {
+    "pregunta": "¿Dónde se originaron los Juegos Olímpicos?",
+    "opciones": ["Roma", "Atenas", "Esparta", "Egipto"],
+    "respuesta": "Atenas"
+  },
+  {
+    "pregunta": "¿Cuál es el metal más abundante en la corteza terrestre?",
+    "opciones": ["Hierro", "Cobre", "Aluminio", "Plata"],
+    "respuesta": "Aluminio"
+  }
+]
